@@ -39,3 +39,8 @@ committers:
       company: 'The Linux Foundation'
       id: 'agardner'
       timezone: 'America/New_York'
+    - name: 'Tim Rozet'
+      email: 'trozet@redhat.com'
+      company: 'Red Hat'
+      id: 'trozet'
+      timezone: 'America/New_York'
