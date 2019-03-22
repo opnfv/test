@@ -44,3 +44,8 @@ committers:
       company: 'Linux Foundation'
       id: 'jwagantall'
       timezone: 'America/New_York'
+    - name: 'Andrew Grimberg'
+      email: 'agrimberg@linuxfoundation.org'
+      company: 'Linux Foundation'
+      id: 'agrimberg'
+      timezone: 'America/New_York'
