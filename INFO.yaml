@@ -1,6 +1,6 @@
 ---
 project: 'test'
-project_creation_date: ''
+project_creation_date: 'foo'
 project_category: 'Integration & Testing'
 lifecycle_state: 'Incubation'
 project_lead: &opnfv_test_ptl
@@ -43,9 +43,4 @@ committers:
       email: 'jwagantall@linuxfoundation.org'
       company: 'Linux Foundation'
       id: 'jwagantall'
-      timezone: 'America/New_York'
-    - name: 'Andrew Grimberg'
-      email: 'agrimberg@linuxfoundation.org'
-      company: 'Linux Foundation'
-      id: 'agrimberg'
       timezone: 'America/New_York'
