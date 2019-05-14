@@ -39,8 +39,3 @@ committers:
       company: 'The Linux Foundation'
       id: 'agardner'
       timezone: 'America/New_York'
-    - name: 'Jessica Wagantall'
-      email: 'jwagantall@linuxfoundation.org'
-      company: 'Linux Foundation'
-      id: 'jwagantall'
-      timezone: 'America/New_York'
